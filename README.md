@@ -9,17 +9,17 @@
 
 ## 🎯 About Me
 
-Design Verification Engineer with hands-on experience in **Verilog**, **SystemVerilog**, and **UVM**. Specialized in ASIC and SoC design & verification flows. Proven expertise in developing and verifying complex modules including **Ethernet MAC**, **AXI-based systems**, **FIFOs**, and **memory blocks** using RTL coding, UVM testbenches, assertions, and functional coverage.
+**Design Verification Engineer** with hands-on experience in **Verilog**, **SystemVerilog**, and **UVM**. Recently completed certified training at **VLSIGURU Training Institute** in Design and Verification. Specialized in ASIC and SoC design & verification flows with proven expertise in developing and verifying complex modules including **Ethernet MAC**, **AXI-based systems**, **FIFOs**, and **memory blocks** using RTL coding, UVM testbenches, assertions, and functional coverage.
 
-Currently pursuing **B.Tech in Electronics & Communication Engineering** (CGPA: 8.48) from Seshadri Rao Gudlavalleru Engineering College. Actively seeking opportunities to build a professional career in **VLSI Design and Verification**.
+**B.Tech in Electronics & Communication Engineering** (CGPA: 8.48) from Seshadri Rao Gudlavalleru Engineering College. **Actively seeking entry-level opportunities** in **VLSI Design and Verification** domain.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### **Hardware Description Languages**
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Expert-blue?style=flat-square&logo=verilog)
-![Verilog](https://img.shields.io/badge/Verilog-Expert-blue?style=flat-square&logo=verilog)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Proficient-blue?style=flat-square&logo=verilog)
+![Verilog](https://img.shields.io/badge/Verilog-Proficient-blue?style=flat-square&logo=verilog)
 
 ### **Verification Methodologies**
 ![UVM](https://img.shields.io/badge/UVM-Proficient-green?style=flat-square)
@@ -30,7 +30,7 @@ Currently pursuing **B.Tech in Electronics & Communication Engineering** (CGPA: 
 ### **Protocols & Interfaces**
 ![Ethernet MAC](https://img.shields.io/badge/Ethernet%20MAC-Experienced-brightgreen?style=flat-square)
 ![AXI](https://img.shields.io/badge/AXI-Experienced-brightgreen?style=flat-square)
-![APB](https://img.shields.io/badge/APB-Experienced-brightgreen?style=flat-square)
+![APB](https://img.shields.io/badge/APB-Familiar-lightblue?style=flat-square)
 ![MII](https://img.shields.io/badge/MII-Experienced-brightgreen?style=flat-square)
 
 ### **Design Verification**
@@ -52,8 +52,8 @@ Currently pursuing **B.Tech in Electronics & Communication Engineering** (CGPA: 
 
 ### **Specialized Knowledge**
 ![Digital Circuit Design](https://img.shields.io/badge/Digital%20Circuit%20Design-Experienced-brightgreen?style=flat-square)
-![ASIC Design](https://img.shields.io/badge/ASIC%20Design-Experienced-brightgreen?style=flat-square)
-![SoC Verification](https://img.shields.io/badge/SoC%20Verification-Experienced-brightgreen?style=flat-square)
+![ASIC Design](https://img.shields.io/badge/ASIC%20Design-Familiar-lightblue?style=flat-square)
+![SoC Verification](https://img.shields.io/badge/SoC%20Verification-Familiar-lightblue?style=flat-square)
 ![CMOS](https://img.shields.io/badge/CMOS-Familiar-lightblue?style=flat-square)
 
 ---
@@ -76,7 +76,7 @@ June 2018 – April 2019 | **GPA: 9.8**
 
 ## 💼 Professional Experience
 
-### **Design Verification Trainee**
+### **Design Verification Trainee** ✅ (Completed)
 **VLSIGURU Training Institute** | Horamavu, Bangalore, Karnataka  
 March 2025 – November 2025
 
@@ -84,8 +84,9 @@ March 2025 – November 2025
 - Gained hands-on experience working on 4+ industry-relevant verification projects
 - Applied UVM-based testbenches, assertions, and functional coverage for design validation
 - Developed practical skills in modern verification methodologies and best practices
+- **Projects:** Ethernet MAC, AXI UVC, FIFO, and Memory Verification
 
-### **VLSI Internship**
+### **VLSI Internship** (Completed)
 **Skill Desire**  
 December 2024 – April 2025 | Certificate ID: SDLT-25-08695
 
@@ -93,7 +94,7 @@ December 2024 – April 2025 | Certificate ID: SDLT-25-08695
 - Gained exposure to architecture and functional operation of high-performance ASICs and SoCs
 - Studied industry-standard design and verification practices
 
-### **Microchip Intern**
+### **Microchip Embedded Systems Intern** (Completed)
 **All India Council for Technical Education (AICTE)**  
 May 2023 – July 2023 | Certificate ID: c8628185019646817397f6a7f7f7c8e0
 
@@ -148,7 +149,7 @@ Collection of UVM-based verification examples and best practices.
 
 ## 🎓 Certifications & Training
 
-- **Design Verification Training** - VLSIGURU Training Institute (2025)
+- **Design Verification Training (Completed)** - VLSIGURU Training Institute (March 2025 – November 2025)
 - **VLSI Design Flow** - Skill Desire (Certificate ID: SDLT-25-08695)
 - **Embedded Systems Development** - AICTE Microchip Internship (Certificate ID: c8628185019646817397f6a7f7f7c8e0)
 
@@ -164,11 +165,14 @@ Collection of UVM-based verification examples and best practices.
 
 ## 🎯 Career Objectives
 
-Seeking opportunities to launch a professional career in **VLSI Design and Verification** with a focus on:
-- ASIC and SoC verification
-- RTL design and optimization
-- Advanced verification methodologies
-- Contributing to industry-leading semiconductor projects
+**Actively seeking entry-level opportunities** in VLSI Design and Verification domain with focus on:
+- ✅ ASIC and SoC verification
+- ✅ RTL design and optimization
+- ✅ Design verification methodologies
+- ✅ Ethernet MAC, AXI, and protocol verification
+- ✅ Contributing to semiconductor and IP core development projects
+
+**Open to:** Full-time roles | Contract positions | Design Verification roles | RTL Verification roles
 
 ---
 
@@ -187,4 +191,4 @@ Seeking opportunities to launch a professional career in **VLSI Design and Verif
 
 ---
 
-*Last Updated: June 2026 | Open to opportunities in VLSI Design and Verification*
+*Last Updated: June 2026 | Training Completed | Actively Seeking Entry-Level VLSI Opportunities*
